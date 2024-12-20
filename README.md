@@ -1,7 +1,5 @@
 # My NAS Server Project 🚀  
 
-![NAS Server Setup](NAS/Nas Image/image.png)  
-
 Welcome to the repository for my NAS server project! This project is designed to provide efficient, reliable, and secure storage for personal and professional use.  
 
 ## Features  
