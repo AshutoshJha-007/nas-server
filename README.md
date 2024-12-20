@@ -1,5 +1,7 @@
 # My NAS Server Project 🚀  
 
+![NAS Server Setup](path/to/your/image.jpg)  
+
 Welcome to the repository for my NAS server project! This project is designed to provide efficient, reliable, and secure storage for personal and professional use.  
 
 ## Features  
@@ -25,6 +27,6 @@ Welcome to the repository for my NAS server project! This project is designed to
 I’d love to hear your thoughts, feedback, or ideas for improvement! Feel free to open an issue or reach out.  
 
 ## License  
-This project is licensed under [Your Preferred License].  
+This project is licensed .  
 
 Thank you for checking out my NAS server project! 😊  
